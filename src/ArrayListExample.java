@@ -58,7 +58,7 @@ ListIterator<Integer> iterator2=arrayList.listIterator();
 
 while(iterator2.hasPrevious()){
 	System.out.println(iterator2.previous());
-}
+       }
 	}
 	
 	
